@@ -1,0 +1,6 @@
+{
+  "name": "Yuvorai Access Gateway",
+  "description": "Premium access gateway for Yuvorai AI tools. Verify via Telegram after a short ad to unlock 2 hours of unlimited access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
